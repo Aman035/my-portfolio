@@ -1,0 +1,153 @@
+body
+{
+font-family: 'Montserrat', sans-serif;
+margin: 0;
+padding: 0;
+text-align: center;
+color:#434e52;
+background-color: #ffffff;
+}
+.navbar{
+  text-align: left;
+}
+.jumbotron
+{
+  padding-bottom: 0;
+  font-weight: bold;
+}
+h1
+{
+  color: #5c8d89;
+  font-family: 'Sacramento', cursive;
+  font-size: 6em;
+}
+.hack
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#434e52;
+}
+.mount
+{
+  height:auto;
+  max-width: 50%;
+}
+.cloud
+{
+  height:8%;
+  width:8%;
+}
+.row{
+  padding: 30px 0;
+  margin: 0;
+}
+h2
+{
+  color: #5c8d89;
+  font-size: 1.5em;
+}
+h3
+{
+  color: #2c7873;
+  font-family: 'McLaren', cursive;
+  font-size: 2.3rem;
+}
+
+.hello
+{
+  margin: 10px auto;
+  font-size: 1.2rem;
+}
+
+hr
+{
+  margin: 2rem auto;
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 0.4rem;
+  width: 4%;
+  color: #c6cbef;
+}
+
+.pic
+{
+  margin:2rem  auto 0 auto;
+  height: 30%;
+  width: 30%;
+  border-radius: 100%;
+}
+.card{
+  border-style: none;
+  padding: 0 20px;
+}
+.skill
+{
+  padding: 0 40px;
+}
+.disc
+{
+  font-size: 1.5em;
+}
+.subtitle
+{
+  text-decoration: underline;
+}
+.lang
+{
+  border-radius: 100%;
+}
+h4
+{
+  font-size: 1.6rem;
+  color: #00818a;
+}
+.code{
+  border-radius: 100%;
+  height: 80%;
+}
+p
+{
+  font-size: 1.2rem;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #caefab;
+	background-color:#2c7873;
+	border-radius:14px;
+	border:1px solid #00818a;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-size:1rem;
+	font-weight:bold;
+	padding:12px 24px;
+  text-decoration: none;
+}
+.myButton:hover {
+	background-color:#00818a;
+  color: black;
+}
+.con3
+{
+  background-color: #cddeee;
+  margin-top: 2rem;
+}
+.copy
+{
+  margin-top: 20px;
+  color: #00818a;
+}
+.social
+{
+  padding:  5px 20px;
+  color:  #00818a;
+}
+.custom-size{
+  height: 60px;
+  margin: 0 20px;
+}
+.certificates{
+  height: 200px;
+  width: 200px;
+}
+.work{
+  margin-top: 100px;
+} 
